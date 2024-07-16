@@ -7,8 +7,8 @@
  * Revision     :     1.0
  * Rev1.0       :     Origital
  * website      :     http://www.tenergyinnovation.co.th
- * Email        :     admin@innovation.co.th
- * TEL          :     +66 82-380-3299
+ * Email        :     uten.boonliam@tenergyinnovation.co.th
+ * TEL          :     +66 89-140-7205
  ***********************************************************************/
 #include <Arduino.h>
 #include <tiny32_v3.h>
@@ -33,8 +33,8 @@ Serial.printf("* Date         :     04/07/2022\r\n");
 Serial.printf("* Revision     :     %s\r\n",version);
 Serial.printf("* Rev1.0       :     Origital\r\n");
 Serial.printf("* website      :     http://www.tenergyinnovation.co.th\r\n");
-Serial.printf("* Email        :     admin@innovation.co.th\r\n");
-Serial.printf("* TEL          :     +66 82-308-3299\r\n");
+Serial.printf("* Email        :     uten.boonliam@tenergyinnovation.co.th\r\n");
+Serial.printf("* TEL          :     +66 89-140-7205\r\n");
 Serial.printf("***********************************************************************/\r\n");
 }
 
